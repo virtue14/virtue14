@@ -1,4 +1,4 @@
-<h1 align="center">Hello! World! 👋, I'm PARK</h1>
+<h1 align="center">🌏 Hello! World! 👋🏻, I'm PARK 🇰🇷</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=demianstudio&label=Profile%20views&color=0e75b6&style=flat" alt="demianstudio" /> </p>
 
 
@@ -10,8 +10,18 @@
 }
 ```
 
-<br/>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=demianstudio&show_icons=true&locale=en&theme=radical" alt="demianstudio" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=demianstudio&show_icons=true&locale=en&layout=compact" alt="demianstudio" />
+</div>
+
+
+
+<br/>
+<br/>
+<br/>
 
 <h3 align="center">🛠️ Languages and Tools</h3>
 <p align="center">
@@ -56,18 +66,23 @@
 <br/>
 <br/>
 <br/>
-<br/>
 
 
-<div align="center" >
-
-
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rudjejrqkr97)](https://solved.ac/{handle}) 
+<h3 align="center">🤔 Problem solving </h3>  
+<div align="center">
   
-  <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=demianstudio&show_icons=true&locale=en&layout=compact" alt="demianstudio" /></p>
- 
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=demianstudio&show_icons=true&locale=en" alt="demianstudio" /></p>
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rudjejrqkr97)](https://solved.ac/{rudejrqkr97})
+  <br/>
+  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java)
 
 </div>
+
+
+
+
+
+  
+
+
 
   
