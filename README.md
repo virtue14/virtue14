@@ -21,9 +21,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=demianstudio&show_icons=true&locale=en&theme=radical" alt="demianstudio" style="height: 121px;" />&nbsp;&nbsp;
-  <a href="https://solved.ac/{rudejrqkr97}">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rudjejrqkr97" alt="Solved.ac 프로필" style="height: 121px;" />
-  </a>
+  
+  [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=rudejrqkr97)](https://solved.ac/rudejrqkr97)
+  
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=demianstudio&show_icons=true&locale=en&layout=compact&theme=dark" alt="demianstudio" style="height: 121px;" />
   <br>
