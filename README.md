@@ -20,12 +20,12 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=demianstudio&show_icons=true&locale=en&theme=radical" alt="demianstudio" style="height: 130px;" />&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=demianstudio&show_icons=true&locale=en&theme=radical" alt="demianstudio" style="height: 125px;" />&nbsp;&nbsp;
   <a href="https://solved.ac/{rudejrqkr97}">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rudjejrqkr97" alt="Solved.ac 프로필" style="height: 130px;" />
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rudjejrqkr97" alt="Solved.ac 프로필" style="height: 125px;" />
   </a>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=demianstudio&show_icons=true&locale=en&layout=compact&theme=dark" alt="demianstudio" style="height: 130px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=demianstudio&show_icons=true&locale=en&layout=compact&theme=dark" alt="demianstudio" style="height: 125px;" />
   <br>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java" alt="Java 뱃지" />
 </div>
