@@ -35,18 +35,3 @@
 </p>
 
 ---
-
-<h3 align="center">📫 Contact Me</h3>
-<p align="center">
-  <a href="mailto:rudejrqkr97@gmail.com">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="40" height="40"/>
-  </a>
-  <a href="https://www.linkedin.com/in/yourusername/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="https://www.instagram.com/yourusername/">
-    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="40" height="40"/>
-  </a>
-</p>
-
----
