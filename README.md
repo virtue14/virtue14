@@ -75,3 +75,10 @@
     <img src="https://skillicons.dev/icons?i=jenkins" alt="Build & Test" />
   </a>
 </p>
+
+<h3 align="lefet">📖 Learning To ...</h3>
+<p align="lfet">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,python,react,kafka" alt="Kotlin & Python & React & Kafka" />
+  </a>
+</p>
