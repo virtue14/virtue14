@@ -12,7 +12,7 @@
 
 ---
 
-<div align="left">
+<div align="center">
   <h3>🚀 STATUS</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=Virtue14&show_icons=true&locale=en&theme=radical" alt="Virtue14" style="height: 150px;" />&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Virtue14&show_icons=true&locale=en&layout=compact&theme=dark" alt="Virtue14" style="height: 150px;" />
@@ -75,3 +75,5 @@
     <img src="https://skillicons.dev/icons?i=jenkins" alt="Build & Test" />
   </a>
 </p>
+
+---
