@@ -75,5 +75,3 @@
     <img src="https://skillicons.dev/icons?i=jenkins" alt="Build & Test" />
   </a>
 </p>
-
----
