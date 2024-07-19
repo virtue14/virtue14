@@ -1,0 +1,17 @@
+{
+  "name": "virtue14",
+  "version": "1.0.0",
+  "description": "<h1 align=\"left\">🌏 Hello! World! 👋🏻, I'm PARK </h1>",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node readmeUpdate.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
