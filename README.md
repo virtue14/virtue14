@@ -1,6 +1,8 @@
-<h1 align="left">🌏 Hello! World! 👋🏻, I'm PARK </h1>
+# 🌏 Hello! World! 👋🏻, I'm PARK
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVirtue14&count_bg=%23B1C978&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=%F0%9F%91%80++Today's+Visits+%2F+Total+Visits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+### <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567593192/noticon/za5oft8gpi5yabrlvgfp.gif" width="30" /> I am...
 
 ``` json
 { 
@@ -9,80 +11,24 @@
   "country": "KR: South Korea"
 }
 ```
+### <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1686716361/noticon/iatvfqtd2vdkboxt13d8.gif" width="30" /> STATUS
+<img src="https://github-readme-stats.vercel.app/api?username=Virtue14&show_icons=true&locale=en&theme=radical" alt="Virtue14" height="150" align="center" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Virtue14&show_icons=true&locale=en&layout=compact&theme=dark" alt="Virtue14" height="150" align="center" />
 
 ---
 
-<div align="center">
-  <h3>🚀 STATUS</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=Virtue14&show_icons=true&locale=en&theme=radical" alt="Virtue14" style="height: 150px;" />&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Virtue14&show_icons=true&locale=en&layout=compact&theme=dark" alt="Virtue14" style="height: 150px;" />
-</div>
+### <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1673344675/noticon/ftoiwdw09co3cunifudf.gif" width="30" /> Stack
+[![My Skills](https://skillicons.dev/icons?i=java,spring,vue,mysql,redis,git,github,githubactions,docker,aws&perline=5)](https://skillicons.dev)
+
+### <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1670808982/noticon/rsidlbh01eu3ycxond0r.gif" width="30" /> Tools
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode,notion,slack)](https://skillicons.dev)
+
+### <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1586271553/noticon/nus6dsqgee1cfqy78el1.gif" width="30" /> Learning Too...
+[![My Skills](https://skillicons.dev/icons?i=kotlin,elasticsearch,kafka,kubernetes&perline=5)](https://skillicons.dev)
 
 ---
 
-<h3 align="left">💻 Languages</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,javascript" alt="Languages" />
-  </a>
-</p>
-
-<h3 align="left">📚 Frameworks</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,vue" alt="Frameworks" />
-  </a>
-</p>
-
-<h3 align="left">🛠️ Tools</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,vscode" alt="Tools" />
-  </a>
-</p>
-
-<h3 align="left">🌟 Development Environment & Productivity</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,gradle" alt="Dev Environment" />
-  </a>
-</p>
-
-<h3 align="left">🗄️ Databases & Data Streaming Platforms</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,redis" alt="Databases" />
-  </a>
-</p>
-
-<h3 align="left">🚀 Deployment & Version Control</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,githubactions" alt="Deployment & Version Control" />
-  </a>
-</p>
-
-<h3 align="left">☁️ Cloud & Communication</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes" alt="Cloud & Communication" />
-  </a>
-</p>
-
-<h3 align="left">🛠️ Build & Test</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jenkins" alt="Build & Test" />
-  </a>
-</p>
-
-<h3 align="lefet">📖 Learning To ...</h3>
-<p align="lfet">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,python,react,kafka" alt="Kotlin & Python & React & Kafka" />
-  </a>
-</p>
-#### Latest Blog Posts
+### <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1605926847/noticon/ku5wj788ubjwba7pecrw.png" width="30" /> Latest Blog Posts
 
 - [SOLID 원칙: 객체 지향 프로그래밍의 5대 기본 원칙](https://virtue14.tistory.com/entry/SOLID-%EC%9B%90%EC%B9%99-%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%98-5%EB%8C%80-%EA%B8%B0%EB%B3%B8-%EC%9B%90%EC%B9%99)
 - [Git Flow VS GitHub Flow](https://virtue14.tistory.com/entry/Git-Flow-VS-GitHub-Flow)
