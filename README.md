@@ -7,7 +7,7 @@
 ``` json
 { 
   "name": "박경덕",
-  "email": "rudejrqkr97@gmail.com",
+  "email": "virtue14.dev@gmail.com",
   "country": "KR: South Korea"
 }
 ```
