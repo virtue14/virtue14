@@ -8,7 +8,8 @@
 { 
   "name": "박경덕",
   "email": "virtue14.dev@gmail.com",
-  "country": "KR: South Korea"
+  "country": "KR: South Korea",
+  "info" : "https://virtue-world.info"
 }
 ```
 ### <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1686716361/noticon/iatvfqtd2vdkboxt13d8.gif" width="30" /> STATUS
