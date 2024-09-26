@@ -2,6 +2,12 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVirtue14&count_bg=%23B1C978&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=%F0%9F%91%80++Today's+Visits+%2F+Total+Visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+<p align="center">
+  <a href="https://virtue-world.info">
+    <img src="https://img.shields.io/badge/info-00D3F2?style=for-the-badge" />
+  </a>
+</p>
+
 ### <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567593192/noticon/za5oft8gpi5yabrlvgfp.gif" width="30" /> I am...
 
 ``` json
@@ -9,7 +15,7 @@
   "name": "박경덕",
   "email": "virtue14.dev@gmail.com",
   "country": "KR: South Korea",
-  "info" : "https://virtue-world.info"
+  "info": "https://virtue-world.info"
 }
 ```
 ### <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1686716361/noticon/iatvfqtd2vdkboxt13d8.gif" width="30" /> STATUS
