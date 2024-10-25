@@ -39,9 +39,9 @@
 
 ### <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1605926847/noticon/ku5wj788ubjwba7pecrw.png" width="30" /> Latest Blog Posts
 
+- [변수와 표기법](https://virtue14.tistory.com/entry/%EC%9E%90%EB%B0%94Java-%EB%B3%80%EC%88%98%EC%99%80-%ED%91%9C%EA%B8%B0%EB%B2%95-%E2%9C%8F%EF%B8%8F)
 - [자바(Java)란 어떤 것일까?  ](https://virtue14.tistory.com/entry/%EC%9E%90%EB%B0%94Java%EB%9E%80-%EC%96%B4%EB%96%A4-%EA%B2%83%EC%9D%BC%EA%B9%8C-%F0%9F%A4%94)
 - [HTTP와 HTTPS의 차이점을 알아보자  ](https://virtue14.tistory.com/entry/HTTP%EC%99%80-HTTPS%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0)
 - [JavaScript의 탄생 배경](https://virtue14.tistory.com/entry/JavaScript%EC%9D%98-%ED%83%84%EC%83%9D-%EB%B0%B0%EA%B2%BD)
 - [I/O Extended 2024 Incheon: 배움과 나의 부족함을 느끼다...](https://virtue14.tistory.com/entry/IO-Extended-2024-Incheon-%EB%B0%B0%EC%9B%80%EA%B3%BC-%EB%82%98%EC%9D%98-%EB%B6%80%EC%A1%B1%ED%95%A8%EC%9D%84-%EB%8A%90%EB%81%BC%EB%8B%A4)
-- [객체지향 프로그래밍과 절차지향 프로그래밍: 무엇이 더 좋을까?](https://virtue14.tistory.com/entry/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B3%BC-%EC%A0%88%EC%B0%A8%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EB%AC%B4%EC%97%87%EC%9D%B4-%EB%8D%94-%EC%A2%8B%EC%9D%84%EA%B9%8C)
 
