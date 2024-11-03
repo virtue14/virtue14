@@ -20,9 +20,18 @@
 ```
 ### <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1686716361/noticon/iatvfqtd2vdkboxt13d8.gif" width="30" /> STATUS
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=Virtue14&show_icons=true&locale=en&theme=radical" alt="Virtue14" height="150" align="center" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Virtue14&show_icons=true&locale=en&layout=compact&theme=dark" alt="Virtue14" height="150" align="center" />
-<img src="https://render.gitanimals.org/farms/virtue14" height="150" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Virtue14&show_icons=true&locale=en&theme=radical" alt="Virtue14" height="150" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Virtue14&show_icons=true&locale=en&layout=compact&theme=dark" alt="Virtue14" height="150" align="center" /> 
+</div>
+<div style="text-align: center;">
+  <a href="https://github.com/devxb/gitanimals">
+    <img
+      src="https://render.gitanimals.org/lines/virtue14?pet-id=638109753467039414"
+      width="600"
+      height="120"
+      alt="Gitanimals Image"
+    />
+  </a>
 </div>
 
 ---
