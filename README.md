@@ -18,24 +18,6 @@
   "info": "https://virtue-world.info"
 }
 ```
-### <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1686716361/noticon/iatvfqtd2vdkboxt13d8.gif" width="30" /> STATUS
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=virtue14&show_icons=true&locale=en&theme=radical" alt="Virtue14" height="150" align="center" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=virtue14&show_icons=true&locale=en&layout=compact&theme=dark" alt=" virtue14" height="150" align="center" /> 
-</div>
-
-<div align="center">
-  <a href="https://github.com/devxb/gitanimals">
-    <img
-      src="https://render.gitanimals.org/lines/virtue14?pet-id=638109753467039414"
-      width="846"
-      height="120"
-      alt="Gitanimals Image"
-    />
-  </a>
-</div>
-
----
 
 ### <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1673344675/noticon/ftoiwdw09co3cunifudf.gif" width="30" /> Stack
 [![My Skills](https://skillicons.dev/icons?i=java,spring,vue,mysql,postgres,redis,git,github,githubactions,docker,aws&perline=5)](https://skillicons.dev)
