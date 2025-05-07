@@ -18,7 +18,7 @@ const parser = new Parser({
     const feed = await parser.parseURL("https://virtue14.tistory.com/rss");
 
     // 최신 5개의 글의 제목과 링크를 추가할 텍스트 생성
-    let latestPosts = "### <img src=\"https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1605926847/noticon/ku5wj788ubjwba7pecrw.png\" width=\"30\" /> Latest Blog Posts\n\n";
+    let latestPosts = "#### Latest Blog Posts";
     for (let i = 0; i < 5 && i < feed.items.length; i++) {
         let { title, link } = feed.items[i];
         link = link.startsWith('http://') ? 'https://' + link.slice(7) : link;
@@ -26,12 +26,11 @@ const parser = new Parser({
     }
 
     // 기존 README.md에 최신 블로그 포스트 추가
-    const newReadmeContent = readmeContent.includes("### <img src=\"https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1605926847/noticon/ku5wj788ubjwba7pecrw.png\" width=\"30\" /> Latest Blog Posts")
-        ? readmeContent.replace(
-            /### <img src="https:\/\/noticon-static\.tammolo\.com\/dgggcrkxq\/image\/upload\/v1605926847\/noticon\/ku5wj788ubjwba7pecrw\.png" width="30" \/> Latest Blog Posts[\s\S]*?(?=\n\n## |\n$)/,
-            latestPosts
-        )
-        : readmeContent + latestPosts;
+    const sectionHeaderRegex = /#### Latest Blog Posts[\s\S]*?(?=\n## |\n$)/;
+
+    const newReadmeContent = readmeContent.includes("#### Latest Blog Posts")
+        ? readmeContent.replace(sectionHeaderRegex, latestPosts)
+        : readmeContent + "\n\n" + latestPosts;
 
     if (newReadmeContent !== readmeContent) {
         writeFileSync(readmePath, newReadmeContent, "utf8");
