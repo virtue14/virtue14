@@ -3,7 +3,8 @@
 #### Skills & Tools
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,mysql,postgres,mongo,redis,linux,ubuntu,git,github,githubactions,docker,aws&perline=7)](https://skillicons.dev)
 
-#### Latest Blog Posts- [macOS에서 UTM으로 Ubuntu 설치하기](https://virtue14.tistory.com/entry/macOS%EC%97%90%EC%84%9C-UTM%EC%9C%BC%EB%A1%9C-Ubuntu-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0)
+#### Latest Blog Posts
+- [macOS에서 UTM으로 Ubuntu 설치하기](https://virtue14.tistory.com/entry/macOS%EC%97%90%EC%84%9C-UTM%EC%9C%BC%EB%A1%9C-Ubuntu-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0)
 - [자료형(Data Type) &ndash; 문자열, StringBuffer, 배열](https://virtue14.tistory.com/entry/%EC%9E%90%EB%A3%8C%ED%98%95-%E2%80%93-%EB%AC%B8%EC%9E%90%EC%97%B4-StringBuffer-%EB%B0%B0%EC%97%B4)
 - [자료형(Data Type) - 숫자, 부울, 문자, 문자열](https://virtue14.tistory.com/entry/%EC%9E%90%EB%A3%8C%ED%98%95Data-Type)
 - [변수와 표기법](https://virtue14.tistory.com/entry/%EC%9E%90%EB%B0%94Java-%EB%B3%80%EC%88%98%EC%99%80-%ED%91%9C%EA%B8%B0%EB%B2%95-%E2%9C%8F%EF%B8%8F)
