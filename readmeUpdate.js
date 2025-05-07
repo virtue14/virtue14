@@ -18,7 +18,7 @@ const parser = new Parser({
     const feed = await parser.parseURL("https://virtue14.tistory.com/rss");
 
     // 최신 5개의 글의 제목과 링크를 추가할 텍스트 생성
-    let latestPosts = "#### Latest Blog Posts";
+    let latestPosts = "#### Latest Blog Posts\n";
     for (let i = 0; i < 5 && i < feed.items.length; i++) {
         let { title, link } = feed.items[i];
         link = link.startsWith('http://') ? 'https://' + link.slice(7) : link;
