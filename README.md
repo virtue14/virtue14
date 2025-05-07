@@ -1,7 +1,7 @@
 #### Hi! I'm PARK 👋🏻
 
 #### Skills & Tools
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,mysql,postgres,mongo,redis,ubuntu,git,github,githubactions,docker,aws,idea,vscode&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,mysql,postgres,mongo,redis,linux,ubuntu,git,github,githubactions,docker,aws&perline=7)](https://skillicons.dev)
 
 #### Latest Blog Posts
 - [자료형(Data Type) &ndash; 문자열, StringBuffer, 배열](https://virtue14.tistory.com/entry/%EC%9E%90%EB%A3%8C%ED%98%95-%E2%80%93-%EB%AC%B8%EC%9E%90%EC%97%B4-StringBuffer-%EB%B0%B0%EC%97%B4)
