@@ -15,7 +15,7 @@ const parser = new Parser({
 // 최신 블로그 포스트 추가하는 함수
 (async () => {
     // RSS 피드 가져오기
-    const feed = await parser.parseURL("https://virtue14.tistory.com/rss");
+    const feed = await parser.parseURL("https://now-virtue.tistory.com/rss");
 
     // 최신 5개의 글의 제목과 링크를 추가할 텍스트 생성
     let latestPosts = "#### Latest Blog Posts\n";
