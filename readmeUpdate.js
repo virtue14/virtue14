@@ -26,11 +26,11 @@ const parser = new Parser({
     }
 
     // 기존 README.md에 최신 블로그 포스트 추가
-    const sectionHeaderRegex = /#### Latest Blog Posts[\s\S]*?(?=\n## |\n$)/;
+    const sectionHeaderRegex = /#### Latest Blog Posts[\s\S]*/;
 
     const newReadmeContent = readmeContent.includes("#### Latest Blog Posts")
-        ? readmeContent.replace(sectionHeaderRegex, latestPosts)
-        : readmeContent + "\n\n" + latestPosts;
+        ? readmeContent.replace(sectionHeaderRegex, latestPosts.trim() + "\n")
+        : readmeContent + "\n" + latestPosts.trim() + "\n";
 
     if (newReadmeContent !== readmeContent) {
         writeFileSync(readmePath, newReadmeContent, "utf8");
