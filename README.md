@@ -17,4 +17,4 @@ I may move slowly, but I move forward consistently.
 - [JPA 이해하기: 동작 원리와 핵심 구성 요소](https://now-virtue.tistory.com/4)
 - [MySQL DB 이름 변경이 안 될 때 RENAME TABLE로 해결하는 방법](https://now-virtue.tistory.com/3)
 - [Docker로 로컬 환경에 MySQL 설치하고 접속하는 방법](https://now-virtue.tistory.com/2)
-- [[TIL] 2025.05.19 &ndash; Docker 기본 개념과 Compose 구성](https://now-virtue.tistory.com/1)
+- [Docker와 VM의 차이점 및 Docker Compose Watch 모드 활용법](https://now-virtue.tistory.com/1)
