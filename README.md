@@ -14,7 +14,7 @@ I may move slowly, but I move forward consistently.
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,mysql,postgres,mongo,redis,linux,ubuntu,git,github,githubactions,docker,aws&perline=7)](https://skillicons.dev)
 
 #### Latest Blog Posts
-- [JPA 이해하기: 동작 원리와 핵심 구성 요소](https://now-virtue.tistory.com/4)
+- [JPA 동작 원리와 영속성 컨텍스트 완벽 이해하기](https://now-virtue.tistory.com/4)
 - [MySQL DB 이름 변경이 안 될 때 RENAME TABLE로 해결하는 방법](https://now-virtue.tistory.com/3)
 - [Docker로 로컬 환경에 MySQL 설치하고 접속하는 방법](https://now-virtue.tistory.com/2)
 - [Docker와 VM의 차이점 및 Docker Compose Watch 모드 활용법](https://now-virtue.tistory.com/1)
