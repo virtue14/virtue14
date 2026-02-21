@@ -15,6 +15,6 @@ I may move slowly, but I move forward consistently.
 
 #### Latest Blog Posts
 - [JPA 동작 원리와 영속성 컨텍스트 완벽 이해하기](https://now-virtue.tistory.com/4)
-- [MySQL DB 이름 변경이 안 될 때 RENAME TABLE로 해결하는 방법](https://now-virtue.tistory.com/3)
+- [MySQL 데이터베이스 이름 변경 불가 문제와 RENAME TABLE로 안전하게 마이그레이션하는 방법](https://now-virtue.tistory.com/3)
 - [Docker로 로컬 환경에 MySQL 설치하고 접속하는 방법](https://now-virtue.tistory.com/2)
-- [Docker와 VM의 차이점 및 Docker Compose Watch 모드 활용법](https://now-virtue.tistory.com/1)
+- [Docker 컨테이너 가상화 원리와 Docker Compose Watch 실전 설정 가이드](https://now-virtue.tistory.com/1)
