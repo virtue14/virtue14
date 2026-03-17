@@ -1,8 +1,8 @@
 name: Update README
 
 on:
-  schedule:
-    - cron: "0 */1 * * *" # 매 시간 정각에 실행
+  # schedule:
+  #   - cron: "0 */1 * * *" # 매 시간 정각에 실행
   push:
     branches:
       - main
